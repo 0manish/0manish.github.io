@@ -5,7 +5,7 @@
 - [Sentient Language (declarative)](https://sentient-lang.org/intro/experimental)
 - [Bounded Model Checker for Sudoku](https://github.com/Shelwien/sudoku-cbmc)
 - [Discussion on SAT Solvers](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
-- [Souffle language] https://souffle-lang.github.io/)
+- [Souffle language](https://souffle-lang.github.io/)
 
 ## EDA Work
 - [GHDL simulator](http://ghdl.free.fr/)
